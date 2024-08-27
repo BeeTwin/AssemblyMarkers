@@ -4,6 +4,12 @@
         <TargetFramework>net8.0</TargetFramework>
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
+        <PackageId>AssemblyMarkers</PackageId>
+        <Version>1.0.0</Version>
+        <Authors>BeeTwin</Authors>
+        <Description>Minimalistic assembly markers.</Description>
+        <RepositoryUrl>https://github.com/BeeTwin/AssemblyMarkers</RepositoryUrl>
+        <PackageLicenseExpression>MIT</PackageLicenseExpression>
     </PropertyGroup>
 
 </Project>
