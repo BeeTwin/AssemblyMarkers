@@ -5,9 +5,14 @@
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
         <PackageId>AssemblyMarkers</PackageId>
-        <Version>1.0.0</Version>
+        <Version>1.0.1</Version>
         <Authors>BeeTwin</Authors>
-        <Description>Minimalistic assembly markers.</Description>
+        <Description>
+            This library provides a base class for creating custom assembly markers,
+            enabling easy access to the type and assembly of derived marker classes through static properties.
+            It is useful for reflection-based operations, allowing consistent identification of assemblies.
+        </Description>
+        <PackageTags>assembly_marker;reflection;scanning;assembly;marker</PackageTags>
         <RepositoryUrl>https://github.com/BeeTwin/AssemblyMarkers</RepositoryUrl>
         <PackageLicenseExpression>MIT</PackageLicenseExpression>
     </PropertyGroup>
