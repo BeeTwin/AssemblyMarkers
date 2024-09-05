@@ -5,7 +5,7 @@
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
         <PackageId>AssemblyMarkers</PackageId>
-        <Version>1.0.1</Version>
+        <Version>1.0.2</Version>
         <Authors>BeeTwin</Authors>
         <Description>
             This library provides a base class for creating custom assembly markers,
@@ -15,6 +15,7 @@
         <PackageTags>assembly_marker;reflection;scanning;assembly;marker</PackageTags>
         <RepositoryUrl>https://github.com/BeeTwin/AssemblyMarkers</RepositoryUrl>
         <PackageLicenseExpression>MIT</PackageLicenseExpression>
+        <GenerateDocumentationFile>true</GenerateDocumentationFile>
     </PropertyGroup>
 
 </Project>
